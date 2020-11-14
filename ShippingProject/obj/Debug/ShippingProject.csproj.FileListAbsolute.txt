@@ -1,0 +1,10 @@
+C:\Users\thanh\Desktop\Group1\ShippingProject\ShippingProject\ShippingProject\bin\Debug\ShippingProject.exe.config
+C:\Users\thanh\Desktop\Group1\ShippingProject\ShippingProject\ShippingProject\bin\Debug\ShippingProject.exe
+C:\Users\thanh\Desktop\Group1\ShippingProject\ShippingProject\ShippingProject\bin\Debug\ShippingProject.pdb
+C:\Users\thanh\Desktop\Group1\ShippingProject\ShippingProject\ShippingProject\obj\Debug\ShippingProject.csprojAssemblyReference.cache
+C:\Users\thanh\Desktop\Group1\ShippingProject\ShippingProject\ShippingProject\obj\Debug\ShippingProject.Form1.resources
+C:\Users\thanh\Desktop\Group1\ShippingProject\ShippingProject\ShippingProject\obj\Debug\ShippingProject.invoiceForm.resources
+C:\Users\thanh\Desktop\Group1\ShippingProject\ShippingProject\ShippingProject\obj\Debug\ShippingProject.Properties.Resources.resources
+C:\Users\thanh\Desktop\Group1\ShippingProject\ShippingProject\ShippingProject\obj\Debug\ShippingProject.csproj.GenerateResource.cache
+C:\Users\thanh\Desktop\Group1\ShippingProject\ShippingProject\ShippingProject\obj\Debug\ShippingProject.exe
+C:\Users\thanh\Desktop\Group1\ShippingProject\ShippingProject\ShippingProject\obj\Debug\ShippingProject.pdb
